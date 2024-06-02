@@ -10,7 +10,7 @@ Work Flow :
 - Future prediction had to be done using 'Time Series Analysis & Forecasting' technique. 
 - Model Deployement using Streamlit API and Streamlit Cloud.
 
-/Guide to deploy Streamlit app in AWS/
+####Guide to deploy Streamlit app in AWS
 
 ### Deploying the Web App on AWS: Step-by-Step
 

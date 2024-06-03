@@ -85,7 +85,7 @@ Work Flow :
 
 2. **Run Streamlit Application**:
    ```sh
-   streamlit run app.py --server.port 8501
+   streamlit run streamlit_deployment.py --server.port 8501
    ```
 
 3. **Access the Application**:
